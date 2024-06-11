@@ -1,7 +1,3 @@
-Creating a comprehensive README file for your React app that utilizes Tailwind CSS and enables downloading Excel data as a styled PDF is crucial for understanding the project's scope, setup, and usage. Here’s a sample README file tailored to your app:
-
----
-
 # Excel Table to PDF with Tailwind CSS
 
 This React app allows users to upload an Excel file, display its content in a table with Tailwind CSS styling, and download the table as a PDF with the selected style.

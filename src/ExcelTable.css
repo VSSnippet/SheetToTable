@@ -1,0 +1,21 @@
+/* styles.css */
+table.style1 th,
+table.style1 td {
+  @apply border px-9 py-2 text-left;
+}
+
+table.style2 th {
+  @apply bg-green-500 text-white border px-4 py-2;
+}
+
+table.style2 td {
+  @apply border px-4 py-2;
+}
+
+table.style3 th {
+  @apply bg-gray-200 border px-4 py-2;
+}
+
+table.style3 td {
+  @apply border px-4 py-2;
+}
